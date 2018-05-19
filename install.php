@@ -519,7 +519,7 @@ RVh0ZGF0ZTptb2RpZnkAMjAxOC0wNC0xNlQyMTozMTo0OCswODowMLfxFlMAAAAASUVORK5CYII=" />
                             if (ret === 'success') {
                                 $('#error').hide();
                                 $("#success").text("安装成功！开始你的<?php echo $sitename; ?>之旅吧！").show();
-                                $('<a class="btn" href="/">访问首页</a> <a class="btn" href="/voiadmin" style="background:#18bc9c">访问后台</a>').insertAfter($button);
+                                $('<a class="btn" href="/">访问首页</a> <a class="btn" href="/ysmd" style="background:#18bc9c">访问后台</a>').insertAfter($button);
                                 $button.remove();
                             } else {
                                 $('#error').show().text(ret);

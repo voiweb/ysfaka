@@ -1,12 +1,12 @@
 <?php
-namespace YS\app\controller\voiadmin;
+namespace YS\app\controller\ysmd;
 
 use YS\app\libs\Controller;
 use YS\app\Config;
 
 class CheckAdmin extends Controller
 {
-    public $dir = '/voiadmin/';
+    public $dir = '/ysmd/';
     public $action;
     function __construct()
     {

@@ -1,6 +1,6 @@
 <?php
 
-namespace YS\app\controller\voiadmin;
+namespace YS\app\controller\ysmd;
 
 use YS\app\libs\Controller;
 
