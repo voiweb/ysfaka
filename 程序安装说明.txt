@@ -1,0 +1,8 @@
+
+php版本：大于或等于5.6
+
+后台入口：/voiadmin
+
+必须设置伪静态！
+
+具体说明请访问：http://www.yunscx.com/cms/a/ysfaka.html
